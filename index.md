@@ -125,6 +125,19 @@ __Russian__
 
 ### &#x200B;
 
+`2025 - now`
+__Byte42 Srl__,<br>Software Engineer<br><br>
+- Designed and implemented an A2H smartcard applet enabling  
+    secure EMV-compliant payments and loyalty point management,  
+    with integration to blockchain networks for enhanced  
+    transparency and traceability.
+- Developed Android applications for the management of standard, custom,  
+    and tokenized payment cards, including secure key handling,  
+    NFC communication, and interfaces for card lifecycle management.
+- Built blockchain-based certification solutions for supply chain transparency  
+    and authenticity verification, ensuring tamper-proof certification processes.
+<br><br><br>
+
 `2019 - 2025`
 __Affidaty S.p.A__,<br>Software Engineer<br><br>
 - Backend services development
@@ -143,4 +156,4 @@ __On-site Tech Support__
 
 <!-- ### Footer
 
-Last updated: Jan 2025 -->
+Last updated: Aug 2025 -->
